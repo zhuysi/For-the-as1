@@ -56,5 +56,7 @@ Example 4: Retrieve Transaction Receiver Address
 		
 		// Retrieve the address of the transaction receiver
 		address receiverAddress = myToken.getTransactionReceiverAddress();
+  ![image](https://github.com/zhuysi/For-the-as1/assets/119056987/0b0c3dfb-3fc7-44a2-9be1-284434d2c719)
+
 
 

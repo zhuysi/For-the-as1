@@ -8,14 +8,23 @@ Usages of this work:
 Token Creation:
 After developing the custom ERC-20 token following the specified instructions, deploy the smart contract on a blockchain network.
 
+![image](https://github.com/zhuysi/For-the-as1/assets/119056987/8c5e1334-22d5-4715-bb77-28f16798eb24)
+
+
 Initial Supply Distribution:
 Distribute the initial supply of 2000 tokens among desired addresses or stakeholders according to the project requirements.
+
+![image](https://github.com/zhuysi/For-the-as1/assets/119056987/59b80147-1697-48bd-9f9a-09b4feaee8b7)
+
 
 Transaction Execution:
 Users can initiate transactions by interacting with the smart contract. These transactions involve the transfer of <University_name_your_Firstname> tokens from one address to another.
 
 Transaction Handling:
 Users can transfer tokens, and functions allow retrieval of sender/receiver addresses and latest transaction timestamp.
+![image](https://github.com/zhuysi/For-the-as1/assets/119056987/a32ce000-c84b-4c3a-8cd2-7b4f4d86d881)
+
+![image](https://github.com/zhuysi/For-the-as1/assets/119056987/6e70b18c-ffa4-47be-834d-0a7df055ba82)
 
 Bonus Task - Metamask Deployment:
 Deploy the custom ERC-20 token contract using Metamask on a chosen testnet blockchain (excluding Remix). This step showcases practical deployment skills and compatibility with a real-world testing environment.
